@@ -1,6 +1,5 @@
 import { createApp } from 'vue'
-import './index.css'
+import './index.scss'
 import App from './App.vue'
-import { createPinia } from 'pinia'
-import router from './router/route'
-createApp(App).use(router).use(createPinia()).mount('#app')
+import VueScrollEase from 'vue-scroll-ease'
+createApp(App).use(VueScrollEase).mount('#app')

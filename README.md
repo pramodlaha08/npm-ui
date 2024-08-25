@@ -10,8 +10,6 @@ This template should help get you started developing with Vue 3 and Typescript i
 
 - 📦 [Components auto importing](./src/components)
 
-- 🎨 [Tailwindcss](https://tailwindcss.com) - A utility-first CSS framework
-
 - 🔥 Use the new `<script setup>` style
 
 - 🦾 TypeScript, of course
